@@ -28,6 +28,7 @@
 
 	<Counter />
 </section>
+
 <Intro />
 
 <style>
